@@ -7,4 +7,4 @@ Prints the user's name and allows user to provide input. Creates two or more pro
 
 Example:
 "SurrealArray% ls -l | grep shell.c" 
-Entering ls will list all the contents of the file shell.c. 
+Entering this input will list all the contents of the file shell.c. 
